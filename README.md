@@ -4,6 +4,8 @@ _Work with me! Viget is hiring <https://viget.com/careers>. It's a great place t
 
 &nbsp;
 
+I make accessible responsive front ends for websites small and large, CMS-backed or not. In a typical week I work on Node, PHP, and Rails stacks. I think about information architecture and presentation, mentorship and knowledge sharing, code reviews and team strength, collaboration and contribution. I enjoy writing utilities and build pipelines. Before this I was in cognitive neuroscience of mental disorders. Skill with smallest market: clay court croquet court restoration.
+
 ## Selected dev writings
 
 - [[Link](https://gist.github.com/olets/06009589d7887617e061481e22cf5a4a#zsh-plugin-manager-plugin-installation-procedures)] _zsh plugin manager plugin installation procedures_ (7/2020) `gist` `shell` `zsh`
