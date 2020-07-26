@@ -1,3 +1,7 @@
+_Work with me! Viget is hiring <https://viget.com/careers>. It's a great place to be, happy to answer any questions over email._
+
+&nbsp;
+
 ## Devy Writings
 
 - `gist` [zsh plugin manager plugin installation procedures](https://gist.github.com/olets/06009589d7887617e061481e22cf5a4a#zsh-plugin-manager-plugin-installation-procedures) (July 2020)
