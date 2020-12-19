@@ -24,3 +24,17 @@ I make accessible responsive front ends for websites small and large, CMS-backed
 - _Set Up AWS CLI and Download Your S3 Files From the Command Line_ (2018) `cli` `s3` [Read on viget.com](https://www.viget.com/articles/set-up-aws-cli-and-download-your-s3-files-from-the-command-line/)
 - _Sticking to Your Palette Regardless of Opacity_ (2015) `css` `less` [Read on newmediacampaigns.com](https://www.newmediacampaigns.com/blog/sticking-to-your-palette-regardless-of-opacity)
 
+
+## Microprototypes
+
+Proof of concept fiddles I've made to test out one thing or another. Mostly CSS demos — for JS I typically prototype locally with my standard tooling. Mostly using `slim` for markup and `stylus` for styles because they require the fewest Codepen keystrokes. Placeholder images come from CDNs; I cannot make any guarantees about their content. Maybe you'll find some useful.
+
+- _Equal-size image grid with equal height captions per row, sized to the tallest caption, with caption text top-aligned_ `html` `css` [See pen](https://codepen.io/henry/pen/JjRYBBO)
+- _Responsive accessible stacked figures with parallax captions_ `html` `css` [See pen](https://codepen.io/henry/pen/dyMzLOB)
+- _"Donut" link card pattern — linked image and body, separated by linked tags_ `html` `css` `a11y` [See pen](https://codepen.io/henry/pen/pogdmyy)
+- _CSS Grid: Reverse column order (flex-direction: row-reverse, for grid)_ `html` `css` [See pen](https://codepen.io/henry/pen/poJVZer)
+- _Illustrated list: hover an item to change the adjacent picture_ `html` `css` [See pen](https://codepen.io/henry/pen/RwPLYMX)
+- _Responsive grid with accessible responsive art-directed heading and subheading_ `html` `css` `a11` [See pen](https://codepen.io/henry/pen/mddmLMX)
+- _Animated gradient background_ `html` `css` [See pen](https://codepen.io/henry/pen/BaaWePK)
+- _Animated gradient text color_ `html` `css` [See pen](https://codepen.io/henry/pen/MWWpzvz)
+- _Breathing Halftone demo_ (halftone-dottified image, mouse interactions) [See pen](https://codepen.io/henry/pen/pVdqNE)
