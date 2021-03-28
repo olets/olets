@@ -1,8 +1,10 @@
-> He/him/his. I [live on](https://native-land.ca/) Sissipahaw, Eno, Sappony, Catawba, and Shakori land. Black lives matter; in many places systems and individuals deny this as well as the equal worth of other groups of people who are not white, or not male, or not cis-gendered, or not heterosexual, or differently abled, or in some other way different from those who command the greatest privilege. In some instances the denial is not deliberate but in many instances it is deliberate; in some instances it is made without understanding but in many instances it is made with understanding. Racism hurts and kills, and so do so many other divisions predicated on differences of body or mind. I do not presume that this notice is stated perfectly; it will change or be removed if it does harm (don't hesitate to let me know).
+# [BLACK LIVES MATTER](https://blacklivesmatter.com/)
+
+> He/him/his. I [live on](https://native-land.ca/) Sissipahaw, Eno, Sappony, Catawba, and Shakori land.
 
 &nbsp;
 
-_Work with me! Viget is hiring <https://viget.com/careers>. It's a great place to be, happy to answer any questions over email._
+_Work with me! Viget is hiring <https://viget.com/careers> (currently fully remote). It's a great place to be, happy to answer any questions over email._
 
 &nbsp;
 
