@@ -41,4 +41,6 @@ Proof of concept fiddles I've made to test out one thing or another. Mostly CSS 
 - _Animated gradient text color_ `html` `css` [See pen](https://codepen.io/henry/pen/MWWpzvz)
 - _Breathing Halftone demo_ (halftone-dottified image, mouse interactions) [See pen](https://codepen.io/henry/pen/pVdqNE)
 
+&nbsp;
+
 ![counter](https://en9z2skwnzim2xk.m.pipedream.net) since March 28, 2021.
