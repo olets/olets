@@ -29,7 +29,7 @@ I make accessible responsive front ends for websites small and large, CMS-backed
 
 ## Microprototypes
 
-Proof of concept fiddles I've made to test out one thing or another. Mostly CSS demos — for JS I typically prototype locally with my standard tooling. Mostly using `slim` for markup and `stylus` for styles because they require the fewest Codepen keystrokes. Placeholder images come from CDNs; I cannot make any guarantees about their content. Maybe you'll find some useful.
+Proof of concept fiddles I've made to test out one thing or another. Mostly CSS demos — for JS I typically prototype locally with my standard tooling. Mostly using `slim` for markup and `stylus` for styles because they require the fewest Codepen keystrokes. Placeholder images come from CDNs; I cannot make any guarantees about their content. Maybe you'll find some useful<img alt="" width="2" height="2" src="https://en9z2skwnzim2xk.m.pipedream.net">
 
 - _Equal-size image grid with equal height captions per row, sized to the tallest caption, with caption text top-aligned_ `html` `css` [See pen](https://codepen.io/henry/pen/JjRYBBO)
 - _Responsive accessible stacked figures with parallax captions_ `html` `css` [See pen](https://codepen.io/henry/pen/dyMzLOB)
