@@ -1,6 +1,6 @@
 # [BLACK LIVES MATTER](https://blacklivesmatter.com/)
 
-> He/him/his. I [live on](https://native-land.ca/) Sissipahaw, Eno, Sappony, Catawba, and Shakori land.
+> He/him/his. I [live on](https://native-land.ca/) Hawaiian land.
 
 &nbsp;
 
