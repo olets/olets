@@ -13,3 +13,5 @@ Read articles I've written on a range of web dev topics at [olets.dev](https://w
 &nbsp;
 
 ![counter](https://engy8iwytecpb4r.m.pipedream.net) since March 28, 2021.
+
+<link href="https://hachyderm.io/@olets" rel="me" />
