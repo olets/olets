@@ -8,8 +8,6 @@ Most recently: Senior UI Developer at [Viget](https://viget.com/). Previously: C
 
 Read articles I've written on a range of web dev topics at [olets.dev](https://www.olets.dev/).
 
-My Mastodon is <a href="https://hachyderm.io/@olets" rel="me">@olets@hachyderm.io</a>. My Twitter was [@oletsdev](https://twitter.com/oletsdev).
-
 #OpenToWork
 
 &nbsp;
