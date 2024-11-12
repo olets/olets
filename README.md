@@ -1,14 +1,16 @@
-# [BLACK LIVES MATTER](https://blacklivesmatter.com/)
+&nbsp;
+
+**[BLACK LIVES MATTER](https://blacklivesmatter.com/)**
 
 &nbsp;
 
-Henry Bley-Vroman (pronouns he/him, pronounced [\/ˈhɛn.ɹi blaɪ ˈvɹəʊmən\/](http://ipa-reader.xyz/?text=ˈhɛnɹi%20blaɪ%20ˈvɹəʊmən)) builds things you see on the web; creates tools to improve other builders' daily experience; thinks about information architecture and presentation, mentorship and knowledge sharing, code reviews and team strength, collaboration and contribution; teaches and mentors at work and in the tech community; and strives to support safe, kind, fair, and welcoming cultures.
-
-Most recently: Senior UI Developer at [Viget](https://viget.com/). Previously: Chair of Viget's DEI Advisory Committee; Front End Developer at [NMC](https://newmediacampaigns.com/), [ReCYCLEry](https://www.recyclery.org/) community bike mechanic and advocate, Boston University doctoral candidate in cognitive neurobiology. Outrigger canoe racer, concertina player, fiddler. Online as olets (pronounced [\/oʊ lɛts\/](http://ipa-reader.xyz/?text=oʊ%20lɛts)).
-
-Read articles I've written on a range of web dev topics at [olets.dev](https://www.olets.dev/).
+Henry Bley-Vroman (pronouns he/him, pronounced [\/ˈhɛn.ɹi blaɪ ˈvɹəʊmən\/](http://ipa-reader.xyz/?text=ˈhɛnɹi%20blaɪ%20ˈvɹəʊmən)) is a **dev team lead, developer of accessible UIs, mentor and coach, open source maintainer and contributor, and DEI advocate**. He builds things you see on the web, creates tools to improve other builders' daily experience, teaches and mentors at work and in the tech community, and strives to support safe, kind, fair, and welcoming cultures. Most recently: established Senior UI Developer, mentor to the UI Developer apprentice, and chair of the DEI Advisory Committee at Viget. Past lives: ReCYCLEry community bike mechanic and advocate, Boston University cognitive neurobiology doctoral candidate. Current passions: Anglo concertina, outrigger canoe racing. olets is pronounced [\/oʊ lɛts\/](http://ipa-reader.xyz/?text=oʊ%20lɛts) — like "oh let's".
 
 #OpenToWork
+
+## Writing
+
+Read articles I've written on a range of web dev topics at [olets.dev](https://www.olets.dev/).
 
 ## Stats
 
