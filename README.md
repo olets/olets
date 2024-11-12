@@ -14,7 +14,7 @@ Read articles I've written on a range of web dev topics at [olets.dev](https://w
 
 ## Stats
 
-The repository view count statistics and total lines of code modified are probably somewhat inaccurate. Repositories that were last contributed to more than a year ago may not be included.
+The repository view count statistics and total lines of code modified are probably somewhat inaccurate. Repositories that were last contributed to more than a year ago may not be included. [[Ref](https://github.com/jstrieb/github-stats#disclaimer)]
 
 Only public repos are analyzed (private repos would add more LESS, PHP, and Sass, and lot more Twig). And of course repos under my Codeberg account <https://codeberg.org/olets/> are not included.
 
